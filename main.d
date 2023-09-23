@@ -1,1 +1,1 @@
-obj/main.o: /home/kthakkar/Documents/SimpleList/main.cpp
+obj/main.o: src/main.cpp
