@@ -10,7 +10,7 @@ int main(int arg_count, char *args[]) {
         print_menu(name);
     }
     else {
-        cout<<"No arguments passed\n"<<endl; 
+        cout<<"No arguments passed"<<endl; 
     }
     return 0;
 }
